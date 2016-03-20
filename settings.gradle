@@ -1,0 +1,6 @@
+rootProject.name = "fms"
+
+include "fms-persistence"
+include "fms-domain"
+include "fms-rest-api"
+include "fms-web"
